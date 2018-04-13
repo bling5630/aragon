@@ -1,6 +1,6 @@
-[**Prediction markets for content curation DAOs**](https://ethresear.ch/t/prediction-markets-for-content-curation-daos/1312) |  |
+[**Prediction markets for content curation DAOs**](https://www.coindesk.com/polkadots-radical-plan-governing-blockchain-blockchains/) |  |
 [_DAOs_](daos.md) |  |
-[<img src="../../images/monthly_no_image.png">](https://ethresear.ch/t/prediction-markets-for-content-curation-daos/1312) |  |
-_Author [Vitalik Buterin](https://ethresear.ch/u/vbuterin) on Mar 6th 2016_ |  |
-**Suppose that you have a social media platform on which anyone can theoretically post content;** this could be Twitter or Reddit, some blockchain-based decentralized platform, and the internet itself. One highly desirable thing to have is a way of quickly filtering out content that is obviously malicious, such as spam, scams and impersonations. |  |
-[Read More](https://ethresear.ch/t/prediction-markets-for-content-curation-daos/1312) |  |
+[<img src="../../images/monthly_no_image.png">](https://www.coindesk.com/polkadots-radical-plan-governing-blockchain-blockchains/) |  |
+_Author [Rachel Rose O'Leary](https://www.coindesk.com/author/rachelroseoleary/) on Mar 22th 2018_ |  |
+**Who has the authority to change a public blockchain?** It's a question that has been in the minds of top cryptocurrency developers as the many available networks struggle to serve their diverse, often conflicting stakeholders. But that's not to say there aren't norms and best practices - the ability to make and enforce software changes is generally split between the developers that write the code and the computers, or nodes, that install it.. |  |
+[Read More](https://www.coindesk.com/polkadots-radical-plan-governing-blockchain-blockchains/) |  |
